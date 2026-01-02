@@ -1,1 +1,1 @@
-# Aman-Mishra-SQL-Projects-
+SQL_Music_Store_Analysis
